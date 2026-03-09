@@ -43,6 +43,7 @@ The analysis was conducted on 656 weeks of historical sales data, with forecasts
 
   - Book 2 – Volatile and nonlinear demand
 
+**Note:** Due to data confidentiality constraints, the dataset has been anonymised and values adjusted. Modelling structure and methodology remain unchanged.
 
 ## 🧠 Models Implemented
 ### 1️⃣ Classical Statistical Model
